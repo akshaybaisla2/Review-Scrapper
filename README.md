@@ -32,5 +32,4 @@ The things needed before start building a python based web scraper are:
 - A Python IDE (Integrated Development Environment): like PyCharm, Spyder, or any other IDE of choice
 - Flask Installed. (A simple command: pip install flask)
 - MongoDB installed 
-- Basic understanding of Python and HTML.
-- Basic understanding of Git
+- Git
