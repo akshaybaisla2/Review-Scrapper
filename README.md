@@ -26,8 +26,7 @@ Other examples of the applications of web scrapping are:
 And, the list goes on.
 
 **Our end goal is to build a web scraper that collects the reviews of a product from the internet.**
-
-2. Prerequisites:
+## Prerequisites:
 The things needed before start building a python based web scraper are:
 - Python installed.
 - A Python IDE (Integrated Development Environment): like PyCharm, Spyder, or any other IDE of choice
