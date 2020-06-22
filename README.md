@@ -2,7 +2,8 @@
 ## Preface:
 This Project is intended to create a web scraper. Web scrappers are extensively used in the industry today for competitive pricing, market studies, customer sentiment analysis, etc. In this case, a review scrapper is used for extracting reviews from an e-commerce website and then deploying it to the Heroku cloud platform. This project takes a simple example of an online cell phone purchase and tries to create a review scrapper.
 ## Final Output:
-*LINK:(reviewscrapper-brave-rabbit-ms.cfapps.io)*
+*LINK:<http://reviewscrapper-brave-rabbit-ms.cfapps.io>*
+
 Click on upper link for checking final output of the project- search any cellphone name/ brand in the search bar and my program will return all the reviews related to that cellphone after scraping the same from internet.
 
 ## Introduction
